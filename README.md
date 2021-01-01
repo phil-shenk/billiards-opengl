@@ -10,7 +10,7 @@ opengl demonstration involving rolling billiard balls, simple lighting, and fake
 
 ### Instructions
 run 'make billiards'
-  requires gcc, make, and GLEW, GLUT, opengl, libxmu, libxi
+  requires gcc, make, and GLEW, GLUT, opengl, libxmu, libxi, and linalglib (github.com/phil-shenk/linalglib)
 
 ### Screenshots
 Initial state  
